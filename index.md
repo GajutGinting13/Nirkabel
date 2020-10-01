@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+# Keamanan Jaringan
+  ## Keamanan Jaringan Nirkabel
+  
+  
+### Wired Wquivalent Peivact (WEP)
 
-You can use the [editor on GitHub](https://github.com/GajutGinting13/Nirkabel/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Ini tipe Keamanan jaringan nirkabel pertama kali digunakan untuk Wi-Fi. berkerja menggunakan        kunci yang dimasukan oleh administration ke access point. Standar yang digunakan WEB adalah 802.11b
+karena tipe keamanan pertama sistem keamanan bisa dikatakan masih lemah tetapi WEP masih banyak di pakai orang karena memenuhi standar 802.11b yang mencangkup exportable, reasonably strong, reasonably strong, self-synchronizing, optional,dan cpmputationally efficient.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Wi-Fi Protected Access (WPA)
 
-### Markdown
+Di but=at untuk memperlengkap keamanan WEP, epa menetapkan kunci keamanan statik dengan memenfaatkan Temporal Key Integrity protocol(TKIP), seperti jaringan WEP, metode enkripsi dari WAP ini juga menggunakan algoritme RC4 
+pengamanan jaringan nirkabel denganmetode WEP ini. Dapat di tindai dengan 
+- Server = Beberapa perangkat lunak yang bisa digunakan antaralain free RADIUS,openRADIUS
+- Port   = Nomor Port 1812
+- Shared Scret
+WPA hadir dengan 2 tipe yaitu WPA dan WPA2
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Wi-Fi Protected Access (WPA2)
 
-```markdown
-Syntax highlighted code block
+WPA2 Adalah WPA yang telah di upgrate. WPA2 terbagi menjadi 2 yaitu WPA2 Personal dan WPA2 Pre-Shared Key (PSK), WPA2 biasanya digunakan untuk jarigan kecil seperti Wi-Fi rumah
+Kelemahan WPA2 sendiri biasanya disebabkan oleh asministration nya sendiri dengan membuat password yang mudah di tebak misalnya menggunakan 12345678 atau menggunakan tanggal lahir, sedangkan WPA2 enterpeise ditujukan untuk jaringan yang lebih besar contoh perusahaan,
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/GajutGinting13/Nirkabel/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### MAC Filter
+setiap wireless access point atau router sudah dibekali dengan keamanan jaringan wireless MAC Filtering. MAC Filter, disebut juga dengan MAC Address Filtering, adalah metode filtering yang digunakan untuk membatasi hak akses dari MAC Address. ia bertugas memilih komputer mana yang boleh masuk ke jaringan sesuai dengan MAC Address 
+jika suatu komputer tidak terdaftar maka MAC Filter tidak aka memperbolehkan untuk masuk ke dalam jaringan.
