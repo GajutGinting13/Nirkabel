@@ -1,6 +1,6 @@
 # Keamanan Jaringan
 
-![image](gambar.png)
+![image](Gambar.jpg)
 
 ## Keamanan Jaringan Nirkabel
   
