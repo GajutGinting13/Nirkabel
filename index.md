@@ -10,7 +10,7 @@ Wi-Fi Protected Access (WPA2), MAC Filter dan masing masing memiliki keunikan ya
 Beberapa serangan yang mungkin akan terjadi
 
 - Penyadapan
- hal ini sering kali di lakukan dengan ada banyak tool di internet di dapatkan secara gratis untuk 
+ hal ini sering kali di lakukan dengan ada banyak tool di internet di dapatkan secara gratis 
 
 - injecton
 - jamming
@@ -19,7 +19,7 @@ jamming terjadi dikarenakan frekuensi yang digunakan cukup sempit sehingga pengg
 kelemahan pada protokol sehingga terjadi pencurian data dan mengacak-acak informasi
 
 Ada Beberapa teknik yang digunakan untuk mengamankan Wireless Dari Serangan-serangan
-- Menyembunyikan SSID
+- SSID disembunyikan dengan maksud agar hanya yang mengetahui SSID yang dapat terhubung ke jaringan tertentu. Hal ini tidak sepenuhnya benar karena SSID tidak dapat disembunyikan secara sempurna
 - Captive Portal
 - Mengintrogasi Sinyal
 - MAC Filter
