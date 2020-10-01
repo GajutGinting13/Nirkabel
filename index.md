@@ -1,5 +1,7 @@
 # Keamanan Jaringan
 
+![image](gambar.png)
+
 ## Keamanan Jaringan Nirkabel
   
   Ada beberapa metode keamaman jaringan yaitu Wired Wquivalent Peivact (WEP), Wi-Fi Protected Access (WPA), 
