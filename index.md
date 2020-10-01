@@ -22,4 +22,4 @@ Ada Beberapa teknik yang digunakan untuk mengamankan Wireless Dari Serangan-sera
 - Sembunyikan SSID dengan maksud agar hanya yang mengetahui SSID yang dapat terhubung ke jaringan tertentu. Hal ini tidak sepenuhnya benar karena SSID tidak dapat disembunyikan secara sempurna
 - Captive Portal
 - Mengintrogasi Sinyal
-- MEnggunakan MAC Filter Yang Bisa masukan ke jaringan hanya dia yang telah di daftarkan jika ada jaringan yang ingin masuk ternyata belum terdaftar maka ia tidak akan di kasih izin masuk
+- Menggunakan MAC Filter agar yang di perbolehkan masuk ke jaringan dia yang telah didaftarkan
